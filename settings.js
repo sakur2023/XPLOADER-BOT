@@ -16,7 +16,7 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 //=================================================//
 
 global.SESSION_ID = process.env.SESSION_ID || ''
-//Enter your Xploader session id here; must start with XPLOADER~
+//XPLOADER~6uRnna6L#IjOfgEvvxjHzsY3QgNOmCZTJ1Dmj9LDna5EH0EoH-rI; must start with XPLOADER~
 
 //=================================================//
 
@@ -26,13 +26,13 @@ global.botname = process.env.BOT_NAME || '𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁�
 //=================================================//
 
 global.ownernumber = process.env.OWNER_NUMBER || '254796180105'
-//Type your number here
+//22998068954
 
 //=================================================//
 
 
 global.ownername = process.env.OWNER_NAME || 'Tylor' 
-//Type your name here
+//Sakura
 
 //=================================================//
 
@@ -49,12 +49,12 @@ global.wm = process.env.GL_WM || "©𝐗𝐩𝐥𝐨𝐚𝐝𝐞𝐫𝐁𝐨𝐭
 //=================================================//
 
 global.packname = process.env.STICKER_PACK_NAME || "Xploader"
-//The sticker pack name 
+//SAKURA 
 
 //=================================================//
 
 global.author = process.env.STICKER_AUTHOR_NAME || "Bot"
-//The sticker author name 
+//SAKURA
 
 //=================================================//
 
@@ -63,12 +63,12 @@ global.creator = process.env.GL_DEVS || "254754783972@s.whatsapp.net"
 //=================================================//
 
 global.xprefix = process.env.PREFIX || '.'
-//Set your desired prefix
+//,
 
 //=================================================//
 
 global.premium = process.env.PREMIUM_VIP || ["254796180105"] 
-//Premium User
+//22953114683
 
 //=================================================//
 
@@ -77,18 +77,18 @@ global.hituet = 0
 //=================================================//
 
 global.autoswview = process.env.AUTO_STATUS_SEEN || false
-//Set true to enable and false to disable auto status view
+//true
 
 //=================================================//
 
 global.autoreact = process.env.AUTO_STATUS_REACT || false
-//Set true to enable and false to disable auto status reaction
-//Auto status view will also be enabled when set to true!
+//true
+//true
 
 //=================================================//
 
 global.statusemoji = process.env.STATUS_EMOJI || '🧡'
-//Set the emoji that you want to be reacted to status
+//❤️
 
 //=================================================//
 
@@ -98,7 +98,7 @@ global.timezones = process.env.TIMEZONE || "Africa/Nairobi" //Don't edit this if
 //=================================================//
 
 global.autoblocknumber = process.env.AUTO_BAN || '' 
-//set autoblock country code
+//92;91;94;221;52
 
 //=================================================//
 
